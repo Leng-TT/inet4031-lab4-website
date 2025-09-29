@@ -1,16 +1,10 @@
-# INET4031 - Module 6 - Working with Remote Systems
+# INET4031 - Module 4 - Website Lab
 
-## Instructions, files, code for Lab 6.
+This repository contains my lab work for Module 4 of INET4031.  
+The purpose of this repository is to demonstrate basic use of **HTML** and **JavaScript** to create a simple interactive webpage.  
 
-What if you aren't nearby the computer you need to work on?
-
-Up until this point, our Lab activities have been accomplished by doing them on our laptops.
-
-In this activity we explore the concept of "servers."  Which typically aren't located where we are.
-
-We have to connect to them remotely
-
-This Lab explores that concept.
+What you'll see is that the webpage will display a lightbulb image that can be turned on and off with buttons.  
+Essentially this lab shows how JavaScript can change HTML attributes in response to user interaction.  
 
 
 
